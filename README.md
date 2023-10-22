@@ -171,7 +171,7 @@ To run the analysis, you'll need the following:
 
 - python3 (3.8.5)
 - conda 4.10.3 (Jupyter Notebook)
-- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## Authors: 🖋️
 
