@@ -183,5 +183,6 @@ To run the analysis, you'll need the following:
 ├── README.md <- The top-level README for reviewers of this project
 ├── index.ipynb <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf <- PDF version of project presentation
+├── notebook.pdf <- PDF version of the notebook
 └── images <- Both sourced externally and generated from code
 ```
